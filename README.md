@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-OP2Y81MXMw](https://www.frontendmentor.io/solutions/four-card-feature-section-OP2Y81MXMw)
+- Live Site URL: [https://bhateshkhairnar.github.io/Four-Card-Feature-Section/](https://bhateshkhairnar.github.io/Four-Card-Feature-Section/)
 
 ### Built with
 
@@ -37,4 +37,4 @@ Users should be able to:
 ## Author
 
 - Website - [Bhatesh Khairnar](https://www.your-site.com)
-- Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
