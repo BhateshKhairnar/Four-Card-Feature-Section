@@ -37,7 +37,7 @@ Users should be able to:
 ## Author
 
 - Website - [Bhatesh Khairnar](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
